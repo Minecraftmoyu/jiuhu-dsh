@@ -106,6 +106,8 @@ SnowLuma (OneBot v11) ──8000/3000──▶ 桥接 bridge.js
 | **让 AI 抄实现（给模型看）** | [`docs/FOR-DSH.md`](docs/FOR-DSH.md) |
 | 四个插口契约与注册表 | [`docs/HOOKS.md`](docs/HOOKS.md) |
 | 补丁标记清单（自动生成） | [`docs/PATCHES.md`](docs/PATCHES.md) |
+| **从零部署（10 步）** | [`docs/DEPLOY.md`](docs/DEPLOY.md) |
+| 配置样例（脱敏） | [`config.example.json`](config.example.json) |
 | 拍过的坑与修法 | [`docs/FOR-DSH.md`](docs/FOR-DSH.md) 第 5 节 |
 | 人格四层写法 | [`persona/`](persona/) |
 
